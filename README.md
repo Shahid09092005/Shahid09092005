@@ -58,7 +58,15 @@ A Computer Science student specializing in **AI & Data Analytics**, passionate a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid09092005&layout=compact&theme=tokyonight)
 
+
+## 🏆 LeetCode Profile & Badges
+
+### 🔗 My LeetCode Profile  
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-shahidmansuri4444-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shahidmansuri4444/)
+
+### 📊 LeetCode Stats & Badges  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shahidmansuri4444?theme=dark&font=Roboto&ext=heatmap)
+
 
 
 
