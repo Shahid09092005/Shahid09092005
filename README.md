@@ -56,7 +56,11 @@ A Computer Science student specializing in **AI & Data Analytics**, passionate a
 ### ⭐ GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahid09092005&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Shahid09092005=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid09092005&layout=compact&theme=tokyonight)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/shahidmansuri4444?theme=dark&font=Roboto&ext=heatmap)
+
+
 
 ---
 
