@@ -159,8 +159,6 @@ Interactive dashboards for business intelligence and analytics.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shahid09092005&show_icons=true&theme=tokyonight"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid09092005&layout=compact&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahid09092005&theme=tokyonight"/>
