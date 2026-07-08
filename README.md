@@ -1,85 +1,204 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shahid Mansuri</h1>
+<h3 align="center">AI Engineer | Data Scientist | Machine Learning Enthusiast</h3>
 
-A Computer Science student specializing in **Artificial Intelligence (AI)**, passionate about building intelligent applications and Transforming data into intelligent solutions. Specialized in machine learning, computer vision, and data visualization to drive business value.
+<p align="center">
+Building intelligent applications using AI, Machine Learning, Computer Vision, and Data Analytics.
+</p>
 
----
-### 🚀 Experience   
-- Internship -> Data Analyst at Capgemini
-- Internship -> Data Scientist at siemens
-
----
-### 🚀 I'm currently working on     
-- 📦 Food Menu Management System
-- 🔍 Research Paper
-- 🔍 AI-based Tamper Detection Project 
+<p align="center">
+<a href="https://github.com/Shahid09092005">
+<img src="https://komarev.com/ghpvc/?username=Shahid09092005&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+</p>
 
 ---
 
-### 🌱 I'm currently learning  
-- LangChain | LlamaIndex  
-- HuggingFace Transformers  
-- React and Node.js
+# 👨‍💻 About Me
+
+🎓 Computer Science Student specializing in **Artificial Intelligence**
+
+💡 Passionate about solving real-world problems through AI and Data Science.
+
+🚀 Interested in
+
+- Machine Learning
+- Computer Vision
+- NLP
+- Data Analytics
+- Backend Development
 
 ---
 
-### 🧰 Tech Stack  
+# 💼 Experience
 
-**Programming:**  
-`Python` • `Java`  • `Sql`
+### Data Analyst Intern
+📍 Capgemini
 
-**Data Analysis:**  
-`Power BI` • `Tableau` •`Pandas` • `NumPy` • `Excel` • `Power Query`, • `Data Cleaning` • `Exploratory Data Analysis (EDA)`
+- Data Cleaning
+- Dashboard Development
+- Business Analytics
+- Reporting
 
-**Machine Learning & AI:**  
-`Scikit-learn` • `PyTorch` • `OpenCV` • `Keras` • `Feature Engineering` • `Ensemble Learning` • `Hyperparameter Tuning` • `Model Evaluation` • `Natural Language Processing (NLTK)` • `LangChain` • `FLAN-T5` • `SentenceTransformers` • `FAISS`
+### Data Scientist Intern
+📍 Siemens
 
-**Databases:**  
-`Oracle SQL` • `MySQL` • `SqlLite` • `MongoDB`
-
-**Web Development:**  
-`HTML` • `Css` • `TailwindCss`  •`JavaScript` • `Django` • `FastAPI`
-
-**DevOps & Tools:**  
-`Git` • `GitHub` • `Docker` • `CI/CD` • `DVC`
-
-**Soft Skills:**
-`Critical Thinking` • `Problem Solving` • `Data-driven Decision Making` • `Communication` • `Attention to Detail` • `Collaborative Code Reviews` • `Technical Documentation`
+- Machine Learning
+- Predictive Modeling
+- Data Preprocessing
+- Model Evaluation
 
 ---
 
-### 🤝 I'm looking to collaborate on  
-- AI + Backend projects  
-- ML Model Deployment  
-- Open-source contributions  
+# 🚀 Currently Working On
+
+- 🍽 Food Menu Management System
+- 🔍 AI-based Tamper Detection System
+- 📄 Research Paper
 
 ---
 
-### 📫 How to reach me  
-📧 shahidmansuri4444@gmail.com  
-🌐 Portfolio (https://mansurism2005.netlify.app/)
+# 🌱 Currently Learning
+
+- LangChain
+- LlamaIndex
+- Hugging Face Transformers
+- React
+- Node.js
+- Agentic AI
 
 ---
 
-### ⭐ GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahid09092005&show_icons=true&theme=tokyonight)
+# 🛠 Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid09092005&layout=compact&theme=tokyonight)
+## Languages
 
-
-## 🏆 LeetCode Profile & Badges
-
-### 🔗 My LeetCode Profile  
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-shahidmansuri4444-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shahidmansuri4444/)
-
-### 📊 LeetCode Stats & Badges  
-![LeetCode Stats](https://leetcard.jacoblin.cool/shahidmansuri4444?theme=dark&font=Roboto&ext=heatmap)
-
-
-
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
 ---
 
-### 🔗 All My Projects  
-👉 https://github.com/Shahid09092005?tab=repositories
+## AI & Machine Learning
+
+- Scikit-Learn
+- PyTorch
+- Keras
+- OpenCV
+- LangChain
+- FAISS
+- SentenceTransformers
+- FLAN-T5
+- NLTK
+
+---
+
+## Data Analytics
+
+- Power BI
+- Tableau
+- Excel
+- Pandas
+- NumPy
+- Power Query
+- Data Cleaning
+- EDA
+
+---
+
+## Databases
+
+- MySQL
+- Oracle SQL
+- SQLite
+- MongoDB
+
+---
+
+## Backend & Web
+
+- Django
+- FastAPI
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+
+---
+
+## DevOps
+
+- Git
+- GitHub
+- Docker
+- CI/CD
+- DVC
+
+---
+
+# ⭐ Featured Projects
+
+### 🤖 AI Tamper Detection
+
+Computer Vision based project for detecting image tampering.
+
+---
+
+### 🍽 Food Menu Management System
+
+Restaurant menu management system with backend APIs.
+
+---
+
+### 📊 Power BI Dashboards
+
+Interactive dashboards for business intelligence and analytics.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shahid09092005&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid09092005&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahid09092005&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/shahidmansuri4444/">
+
+<img src="https://leetcard.jacoblin.cool/shahidmansuri4444?theme=dark&font=Roboto&ext=heatmap"/>
+
+</a>
+
+</p>
+
+---
+
+# 🤝 Open to Collaborate
+
+- AI Projects
+- Machine Learning
+- Backend Development
+- Open Source
+- Data Analytics
+
+---
+
+# 📫 Connect with Me
+
+📧 shahidmansuri4444@gmail.com
+
+🌐 Portfolio:
+https://mansurism2005.netlify.app/
+
+💻 GitHub:
+https://github.com/Shahid09092005
