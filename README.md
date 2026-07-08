@@ -15,7 +15,7 @@ Building intelligent applications using AI, Machine Learning, Computer Vision, a
 
 # 👨‍💻 About Me
 
- Computer Science Student specializing in **Artificial Intelligence** (2026)
+ B.Tech in Computer Science Engineering(**Artificial Intelligence**) (2026)
 
  Passionate about solving real-world problems through AI and Data Science.
 
