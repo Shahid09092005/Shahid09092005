@@ -58,9 +58,6 @@ Building intelligent applications using AI, Machine Learning, Computer Vision, a
 - 📄 Research Paper
 
 ---
-
-# 🌱 Currently Learning
-
 ## 🌱 Currently Learning
 
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-blue?style=for-the-badge)
@@ -97,64 +94,43 @@ Building intelligent applications using AI, Machine Learning, Computer Vision, a
 
 ## Data Analytics
 
-- Power BI
-- Tableau
-- Excel
-- Pandas
-- NumPy
-- Power Query
-- Data Cleaning
-- EDA
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4285F4?style=for-the-badge&logo=databricks&logoColor=white)
+![Exploratory Data Analysis](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## Databases
 
-- MySQL
-- Oracle SQL
-- SQLite
-- MongoDB
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## Backend & Web
 
-- Django
-- FastAPI
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## DevOps
-
-- Git
-- GitHub
-- Docker
-- CI/CD
-- DVC
-
----
-
-# ⭐ Featured Projects
-
-### 🤖 AI Tamper Detection
-
-Computer Vision based project for detecting image tampering.
-
----
-
-### 🍽 Food Menu Management System
-
-Restaurant menu management system with backend APIs.
-
----
-
-### 📊 Power BI Dashboards
-
-Interactive dashboards for business intelligence and analytics.
+## DevOps and tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
 
 ---
 
@@ -184,20 +160,16 @@ Interactive dashboards for business intelligence and analytics.
 
 # 🤝 Open to Collaborate
 
-- AI Projects
-- Machine Learning
-- Backend Development
-- Open Source
-- Data Analytics
+- AI Projects , Machine Learning , Backend Development , Open Source , Data Analytics
 
 ---
 
 # 📫 Connect with Me
 
-📧 shahidmansuri4444@gmail.com
+Gmail: shahidmansuri4444@gmail.com
 
-🌐 Portfolio:
+Portfolio:
 https://mansurism2005.netlify.app/
 
-💻 GitHub:
-https://github.com/Shahid09092005
+Linkedin:
+https://www.linkedin.com/in/shahid-mansuri-a3b901285/
