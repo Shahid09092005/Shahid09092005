@@ -21,11 +21,13 @@ Building intelligent applications using AI, Machine Learning, Computer Vision, a
 
 🚀 Interested in
 
-- Machine Learning
-- Computer Vision
-- NLP
-- Data Analytics
-- Backend Development
+## 💡 Areas of Interest
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=probot&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-2F80ED?style=for-the-badge&logo=powerbi&logoColor=white)
+![Backend Development](https://img.shields.io/badge/Backend%20Development-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -59,12 +61,13 @@ Building intelligent applications using AI, Machine Learning, Computer Vision, a
 
 # 🌱 Currently Learning
 
-- LangChain
-- LlamaIndex
-- Hugging Face Transformers
-- React
-- Node.js
-- Agentic AI
+## 🌱 Currently Learning
+
+![LangChain](https://img.shields.io/badge/LangChain-Framework-blue?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG%20Framework-purple?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-AI%20Agents-red?style=for-the-badge)
 
 ---
 
@@ -80,15 +83,15 @@ Building intelligent applications using AI, Machine Learning, Computer Vision, a
 
 ## AI & Machine Learning
 
-- Scikit-Learn
-- PyTorch
-- Keras
-- OpenCV
-- LangChain
-- FAISS
-- SentenceTransformers
-- FLAN-T5
-- NLTK
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![FLAN--T5](https://img.shields.io/badge/FLAN--T5-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
