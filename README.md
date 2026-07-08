@@ -171,8 +171,6 @@ Interactive dashboards for business intelligence and analytics.
 
 <p align="center">
 
-<a href="https://leetcode.com/shahidmansuri4444/">
-
 <img src="https://leetcard.jacoblin.cool/shahidmansuri4444?theme=dark&font=Roboto&ext=heatmap"/>
 
 </a>
