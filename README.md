@@ -15,11 +15,10 @@ Building intelligent applications using AI, Machine Learning, Computer Vision, a
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Student specializing in **Artificial Intelligence**
+ Computer Science Student specializing in **Artificial Intelligence** (2026)
 
-💡 Passionate about solving real-world problems through AI and Data Science.
+ Passionate about solving real-world problems through AI and Data Science.
 
-🚀 Interested in
 
 ## 💡 Areas of Interest
 
